@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ash-0601
+- 👋 Hi, I’m Ashutosh Priyadarshi
 - 👀 I’m interested in developing apps
 - 🌱 I’m currently learning the android development
 - 📫 Reach me at ashutoshpriyadarshi.2008@gmail.com
